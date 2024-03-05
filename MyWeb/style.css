@@ -58,18 +58,54 @@ h1{
     height: 30%;
     width: 30%;
     bottom: 400px;
-    left: 150px;
+    left: 35px;
     border: solid 5px white;
+}
+
+.foto3{
+    position: relative;
+    height: 30%;
+    width: 30%;
+    bottom: 400px;
+    left: 48px;
+    border: solid 5px white;
+}
+.foto4{
+    position: relative;
+    height: 30%;
+    width: 30%;
+    bottom: 400px;
+    left: 60px;
+    border: solid 5px white; 
 }
 .a3s{
     position: absolute;
     font-size: 20px;
     bottom: 369px;
-    left: 376px;
+    left: 221px;
     color: white;
     text-decoration: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.a4s{
+    position: absolute;
+    font-size: 20px;
+    bottom: 369px;
+    left: 610px;
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.a5s{
+    position: absolute;
+    font-size: 20px;
+    bottom: 369px;
+    left: 1010px;
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .footer{
     height: 70px;
     width: 100%;
