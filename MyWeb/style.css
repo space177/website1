@@ -1,0 +1,79 @@
+.navbar{
+    height: 70px;
+    width: 100%;
+    position: relative;
+    background-color: grey;
+    overflow: hidden;
+}
+.a1{
+    display: inline;
+    color:white;
+    text-decoration: none;
+    position: absolute;
+    top: 5px;
+    left: 31px;
+    font-size: 20px;
+    padding: 1px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.a2{
+    display: inline;
+    color:white;
+    text-decoration: none;
+    position: absolute;
+    top: 37px;
+    left: 31px;
+    font-size: 20px;
+    padding: 1px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.foto-nav {
+    justify-content: center;
+    width: 100%;
+}
+.isi{
+    height: 600px;
+    width: 100%;
+    position: relative;
+    background-color: rgb(103, 103, 103);
+    overflow: hidden;
+}
+h1{
+    position: absolute;
+    display: inline;
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+    top: -53px;
+    left: 558px;
+}
+.foto1{
+    height: 100%;
+    width: 100%;
+}
+.foto2{
+    position: relative;
+    height: 30%;
+    width: 30%;
+    bottom: 400px;
+    left: 150px;
+    border: solid 5px white;
+}
+.a3s{
+    position: absolute;
+    font-size: 20px;
+    bottom: 369px;
+    left: 376px;
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.footer{
+    height: 70px;
+    width: 100%;
+    position: relative;
+    background-color: rgb(35, 35, 35);
+    overflow: hidden;
+}
