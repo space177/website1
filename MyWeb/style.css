@@ -113,3 +113,40 @@ h1{
     background-color: rgb(35, 35, 35);
     overflow: hidden;
 }
+/* ............................................. */
+
+.content{
+    height: 600px;
+    width: 100%;
+    position: relative;
+    background-color: rgb(103, 103, 103);
+    overflow: hidden;
+}
+.foto-p1{
+    height: 100%;
+    width: 100%;
+}
+.foto-p2{
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    left: 40px;
+    top:185px;
+    border: 5px white solid;
+}
+.foto-p3{
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    left: 464px;
+    top: 185px;
+    border: 5px white solid;
+}
+.foto-p4{
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    left: 887;
+    top: 185px;
+    border: 5px white solid;
+}
