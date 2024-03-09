@@ -85,7 +85,7 @@ h1{
     left: 221px;
     color: white;
     text-decoration: none;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .a4s{
     position: absolute;
@@ -94,7 +94,7 @@ h1{
     left: 610px;
     color: white;
     text-decoration: none;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .a5s{
     position: absolute;
@@ -103,7 +103,7 @@ h1{
     left: 1010px;
     color: white;
     text-decoration: none;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .footer{
@@ -149,4 +149,157 @@ h1{
     left: 887;
     top: 185px;
     border: 5px white solid;
+}
+.a1p{
+    position: absolute;
+    font-size: 20px;
+    left: 176px;
+    top: 195px;
+    color: white;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.a2p{
+    position: absolute;
+    font-size: 20px;
+    left: 641px;
+    top: 196px;
+    color:white;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.a3p{
+    position: absolute;
+    font-size: 20px;
+    text-decoration: none;
+    left: 1036px;
+    top: 195px;
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* ---------------------------------------- */
+.isi-f{
+    height:600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    background-color: grey;
+}
+.bgf{
+    height: 100%;
+    width: 100%;
+}
+.fotof1{
+    height: 30%;
+    width: 30%;
+    left: 40px;
+    top: 185;
+    position: absolute;
+    border: 5px solid white;
+}
+.fotof2{
+    position: absolute;
+    height: 30%;
+    top: 185px;
+    width: 30%;
+    left: 464px;
+    border: 5px solid white;
+}
+.fotof3{
+    position: absolute;
+    height: 30%;
+    top: 185px;
+    width: 30%;
+    left: 887px;
+    border: 5px solid white;
+}
+.af1{
+    position: absolute;
+    font-size: 20px;
+    left: 215px;
+    top: 195px;
+    color: white;
+    text-decoration: none;
+    font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.af2{
+    position: absolute;
+    font-size: 20px;
+    left: 641px;
+    top: 195px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.af3{
+    position: absolute;
+    font-size: 20px;
+    left:1030px;
+    top: 195px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* -------------------------------------- */
+.isi-d{
+    height:600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    background-color: grey;
+}
+.bg-d{
+    height: 100%;
+    width: 100%;
+}
+.ftd1{
+    height: 30%;
+    width: 30%;
+    left: 40px;
+    top: 185;
+    position: absolute;
+    border: 5px solid white;
+}
+.ftd2{
+    position: absolute;
+    height: 30%;
+    top: 185px;
+    width: 30%;
+    left: 464px;
+    border: 5px solid white;
+}
+.ftd3{
+    position: absolute;
+    height: 30%;
+    top: 185px;
+    width: 30%;
+    left: 887px;
+    border: 5px solid white;
+}
+.ad1{
+    position: absolute;
+    font-size: 20px;
+    left: 190px;
+    top: 195px;
+    color: white;
+    text-decoration: none;
+    font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.ad2{
+    position: absolute;
+    font-size: 20px;
+    left: 619px;
+    top: 195px;
+    color: white;
+    text-decoration: none;
+    font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.ad3{
+    position: absolute;
+    font-size: 20px;
+    left: 1048px;
+    top: 195px;
+    color: white;
+    text-decoration: none;
+    font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
