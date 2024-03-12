@@ -113,6 +113,12 @@ h1{
     background-color: rgb(35, 35, 35);
     overflow: hidden;
 }
+.h1{
+    font-size: 20px;
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
 /* ............................................. */
 
 .content{
